@@ -1,1 +1,3 @@
-# RM_homework
+# RM_homework_1
+2. apple
+红绿通道相减————二值化————开运算————轮廓提取
