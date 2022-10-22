@@ -1,0 +1,3 @@
+/home/vioplum/Desktop/2.apple/build/CMakeFiles/rebuild_cache.dir
+/home/vioplum/Desktop/2.apple/build/CMakeFiles/edit_cache.dir
+/home/vioplum/Desktop/2.apple/build/CMakeFiles/demo.dir
