@@ -2,7 +2,7 @@
 
 ## 1. 坐标
 
-solvePnP()求出tvec，再用imu四元数乘tvec
+先solvePnP()求出tvec，再用imu四元数乘tvec
 
 ![11061817](https://user-images.githubusercontent.com/59474508/200165613-942e2b84-2439-4aa6-b883-de2214ec1b4d.png)
 
