@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 find_package(OpenCV 4 REQUIRED)
 
-add_executable(demo ex1/ex1.cpp)
+add_executable(demo ex2/ex2.cpp ex2/VO.cpp)
 target_link_libraries(demo ${OpenCV_LIBS})
